@@ -1,1 +1,1 @@
-# A simple implementation of a power iteration method with OpenMP
+# A simple C++ implementation of a power iteration method with OpenMP
